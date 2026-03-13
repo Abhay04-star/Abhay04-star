@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay Kiran Pandey</h1>
-<h3 align="center">Second Year Engineering Student | Aspiring Web Developer | Building Skills Through Code & Projects</h3>
+<h3 align="center">Third Year Engineering Student | Aspiring Web Developer | Building Skills Through Code & Projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay04-star&label=Profile%20views&color=0e75b6&style=flat" alt="abhay04-star" /> </p>
 
