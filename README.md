@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay04-star&label=Profile%20views&color=0e75b6&style=flat" alt="abhay04-star" /> </p>
 
-- 🔭 I’m currently working on **e commerce website**
-
 - 🌱 I’m currently learning **Python and Java**
 
 - 📫 How to reach me **abhaykiranpandey@gmail.com**
